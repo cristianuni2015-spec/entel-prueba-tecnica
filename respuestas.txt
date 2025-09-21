@@ -1,0 +1,21 @@
+1 platino     19940
+  gold        19941
+  normal     159516
+
+2 flag_recarga
+   1    196624
+   0      2773
+
+3 Junio 2014: 0.0104
+  Julio 2014: 0.0152
+
+4 10. 
+  Borraría las columnas date_of_last_rech y mobile_number pues no aportarían información al momento de modelas y predecir la prob de churn
+
+5 Sí, existen diferencias:
+
+Los clientes que no hacen churn presentan una mayor dispersión y algunos casos con recargas muy altas.
+Los clientes que sí hacen churn tienen valores de recargas más bajos y menos extremos.
+Esto sugiere que los que recargan más tienden a quedarse (no churn), mientras que los que recargan poco o tienen un patrón más estable tienden más a hacer churn.
+
+
